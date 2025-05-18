@@ -31,4 +31,4 @@ print(unique_scores[-2])
 ![image](https://github.com/user-attachments/assets/5a4d2476-c9d6-4afe-96a9-d2dc95cce762)
 
 ## RESULT
-Therefore the given Python program has been executed successfully and the output has been verified.
+Therefore the given Python program has been executed successfully and the output has been verified. 
